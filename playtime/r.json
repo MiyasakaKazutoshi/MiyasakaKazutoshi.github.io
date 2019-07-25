@@ -1,6 +1,6 @@
 {
   "r":"1", 
-  "sb": true,
-  "aa": true,
-  "st": true
+  "sb": 1,
+  "aa": 1,
+  "st": 1
 }
